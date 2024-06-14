@@ -1,7 +1,7 @@
 #include <Wire.h>
 #include <Adafruit_BMP085.h>
-#include </home/carbonoid/Arduino/libraries/Adafruit_GFX_Library/Fonts/FreeMonoBold12pt7b.h>
-#include </home/carbonoid/Arduino/libraries/Adafruit_GFX_Library/Fonts/FreeMono9pt7b.h>
+#include </Fonts/FreeMonoBold12pt7b.h>//change your absolute path
+#include <Fonts/FreeMono9pt7b.h>//Change your Absolute path
 
 Adafruit_BMP085 bmp;
 
